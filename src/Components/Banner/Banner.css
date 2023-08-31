@@ -1,0 +1,12 @@
+.banner {
+  margin-top: 0;
+  padding: 175px 0 330px 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.313)), url(../../Images/magicpattern.jpg);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.banner-box {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.031), rgba(0, 0, 0, 0.048));
+}

@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from "./Components/Header/Header";
-import AboutMe from "./Components/AboutMe/AboutMe";
+/* import AboutMe from "./Components/AboutMe/AboutMe"; */
+import Banner from "./Components/Banner/Banner";
 import Skills from "./Components/Skills/Skills";
 import Projects from "./Components/Projects/Projects";
 import Contact from "./Components/Contact/Contact";
@@ -10,7 +11,7 @@ function App() {
   return (
     <div className="flex flex-col">
       <Header />
-      <AboutMe />
+      <Banner />
     {/*     <AboutMe />
       <Skills />
       <Projects />
